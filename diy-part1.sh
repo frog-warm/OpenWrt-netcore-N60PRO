@@ -18,5 +18,5 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
    
 wget https://github.com/vernesong/OpenClash/archive/v0.46.079.zip
-unzip OpenClash-0.46.079
+unzip v0.46.079.zip
 cp -r OpenClash-0.46.079/luci-app-openclash package
